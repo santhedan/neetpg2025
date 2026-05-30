@@ -15,7 +15,9 @@ Each report includes:
 | --- | --- |
 | Round 1 | [KEA Round 1 2025 Analysis](KEA_Round_1_2025_analysis.md) |
 | Round 2 | [KEA Round 2 2025 Analysis](KEA_Round_2_2025_analysis.md) |
-| Round 3 | [KEA Round 3 2025 Analysis](KEA_Round_3_2025_analysis.md) |
+| Round 3 (With separate fees section) | [KEA Round 3 2025 Analysis - With Fees section](KEA_Round_3_2025_analysis.md) |
+| Round 3 (With inline fees details) | [KEA Round 3 2025 Analysis - Inline Fees](KEA_Round_3_2025_analysis_with_fees.md) |
+| Marks vs Rank | [Marks vs Rank](KEA_Marks_VS_Rank_2025.md) |
 
 ---
 
